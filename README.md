@@ -1,0 +1,2 @@
+# HTML-above
+&lt;html> is the root node &lt;html> has no parents &lt;html> is the parent of &lt;head> and &lt;body> &lt;head> is the first child of &lt;html> &lt;body> is the last child of &lt;html> and:  &lt;head> has one child: &lt;title> &lt;title> has one child (a text node): "DOM Tutorial" &lt;body> has two children: &lt;h1> and &lt;p> &lt;h1> has one child: "DOM Lesson one" &lt;p> has one child: "Hello world!" &lt;h1> and &lt;p> are siblings
